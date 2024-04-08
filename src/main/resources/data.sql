@@ -1,0 +1,5 @@
+INSERT INTO tsn_members (member_id , first_name,last_name, address,email, mobile) VALUES (1, 'M1 First name','M1 Last Name', 'Address 1', 'm1@tsn.com', '000-000-0001');
+INSERT INTO tsn_members (member_id, first_name,last_name, address,email, mobile) VALUES (2, 'M2 First name','M2 Last Name', 'Address 2', 'm2@tsn.com', '000-000-0002');
+INSERT INTO tsn_members (member_id, first_name,last_name, address,email, mobile) VALUES (3, 'M3 First name','M3 Last Name', 'Address 3', 'm3@tsn.com', '000-000-0003');
+INSERT INTO tsn_members (member_id, first_name,last_name, address,email, mobile) VALUES (4, 'M4 First name','M4 Last Name', 'Address 4', 'm4@tsn.com', '000-000-0004');
+INSERT INTO tsn_members (member_id, first_name,last_name, address,email, mobile) VALUES (5, 'M5 First name','M5 Last Name', 'Address 5', 'm52@tsn.com', '000-000-0005');
